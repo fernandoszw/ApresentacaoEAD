@@ -1,0 +1,28 @@
+{
+  "NumeroMesa": 1,
+  "NomeCliente": "Fernando Souza",
+  "Pratos": [
+    {
+      "Vegetariano": true,
+      "IngredientesPrincipais": "Berinjela, queijo, molho de tomate",
+      "Nome": "Lasanha de Berinjela",
+      "Preco": 35.90
+    }
+  ],
+  "Bebidas": [
+    {
+      "Alcoolica": false,
+      "Ml": 300,
+      "Nome": "Suco de Laranja",
+      "Preco": 8.50
+    }
+  ],
+  "Sobremesas": [
+    {
+      "ContemAcucar": true,
+      "Sabor": "Chocolate",
+      "Nome": "Mousse de Chocolate",
+      "Preco": 15.00
+    }
+  ]
+}
